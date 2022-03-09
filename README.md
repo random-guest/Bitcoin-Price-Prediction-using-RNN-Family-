@@ -6,3 +6,5 @@ The data is in the form of Open-High-Low-Close-Volume data-type for Bitcoin pric
 This section will usually be containing the details of the updates that were added so that they can be identified, tracked, and discussed easily.
 # Feedback
 This section could be saved for potential feedbacks or suggestions.
+# Report
+As we progress, I will be filling the report (partially), so that the final version will not be pain in the back.
