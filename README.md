@@ -3,8 +3,11 @@ This repo is meant to keep track of the progress of completing the term project.
 The data that will be used is attached.
 The data is in the form of Open-High-Low-Close-Volume data-type for Bitcoin prices between 2013 and 2021.
 # Updates
-This section will usually be containing the details of the updates that were added so that they can be identified, tracked, and discussed easily.
+1. The first model, LSTM Mode, is completed and uploaded. It is simple one that will be undergoes some modifications from parameter tunnings to model's architecture.
+For the next week, I will be working on making this model, the best it can be.
+
+2. An extra data is uploaded, for the sake of forcasting.
+
+
 # Feedback
-This section could be saved for potential feedbacks or suggestions.
-# Report
-As we progress, I will be filling the report (partially), so that the final version will not be pain in the back.
+This section could be saved for potential feedbacks or suggestion.
