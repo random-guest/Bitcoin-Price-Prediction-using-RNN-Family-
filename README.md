@@ -7,3 +7,5 @@ The data is in the form of Open-High-Low-Close-Volume data-type for Bitcoin pric
 The result is still to be improved. The next week work will be focusing on adding a 1-D convolutional layer to this model.
 # Feedback
 This section could be saved for potential feedbacks or suggestion.
+# Critical note
+The models fails to predict sudden change in the price. 
