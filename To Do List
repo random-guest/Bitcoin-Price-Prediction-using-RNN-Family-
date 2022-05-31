@@ -1,7 +1,0 @@
-1. Tune the newly added methods.
-2. Add more data from similiar crypto to train the models more.
-3. Connect Data with Github, to test models without the need of having data locally (possibily from API).
-4. Comment on the output, especially, the the starnge behaviour towards the boundaries.
-5. Add Omur hoca as a collaborator.
-6. Start Preparing a summary of each method to be added in the report.
-7. check the suggested paper.
