@@ -1,9 +1,10 @@
 # Bitcoin Price Prediction in the time of Russia-Ukarine War using RNN Family 
 
+
 # Aim
-1. predict next day closing price of Bitcoin.
-2. study the effects of Russia-Ukarine tweets on the performance (perhaps something new).
-3. compare the effects of using Technical Indicators, Bitcoin tweets and Russia-Ukarine tweets on the performance of the implemented models.
+1. To predict next day closing price of Bitcoin.
+2. To study the effects of Russia-Ukarine tweets on the performance (perhaps something new).
+3. To compare the effects of using Technical Indicators, Bitcoin tweets and Russia-Ukarine tweets on the performance of the implemented models.
 
 # Models Used
 1. LSTM
@@ -16,10 +17,10 @@
 8. 1D-Conv-Bi-GRU
 
 # Data Used
-1. Historical Bitcoin data (open, high, low, close, volume)
+1. Recent Historical Bitcoin data (open, high, low, close, volume) that encloses the Russian-Ukarine War time period. 
 2. Technical Indicators (Moving Average - MA, Moving Average Convergence Divergence - MACD, Exponential Moving Average - EMA, Bollinger bands, Momentum).
-3. Bitcoin Tweets
-4. Russia-Ukarine War Tweets
+3. Recent Bitcoin Tweets.
+4. Recent Russian-Ukarine War Tweets.
 
 # Future Work
 1. Model wise: Add state-of-the-art model that utlizes Transformer architecture.
