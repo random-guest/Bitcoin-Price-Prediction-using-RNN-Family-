@@ -1,1 +1,0 @@
-In this file, the technical requirements will be specified, including the libraries and their versions.
