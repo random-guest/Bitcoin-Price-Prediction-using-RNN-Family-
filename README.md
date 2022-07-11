@@ -3,7 +3,7 @@
 
 # Aim
 1. To predict next day closing price of Bitcoin.
-2. To study the effects of Russia-Ukarine tweets on the performance (perhaps something new).
+2. To study the effects of Russia-Ukarine tweets on the performance of several Deep Learning models (perhaps something new).
 3. To compare the effects of using Technical Indicators, Bitcoin tweets and Russia-Ukarine tweets on the performance of the implemented models.
 
 # Models Used
@@ -25,3 +25,4 @@
 # Future Work
 1. Model wise: Add state-of-the-art model that utlizes Transformer architecture.
 2. Data wise: Apply feature engineering.
+3. Integrate time2vec paper to convert the time into feature vector.
