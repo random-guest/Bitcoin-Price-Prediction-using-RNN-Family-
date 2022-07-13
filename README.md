@@ -1,7 +1,7 @@
 # Bitcoin Price Prediction in the time of Russia-Ukraine War using LSTM.
 
 # Motivation
-The sudden drop in the bitcoin price which took place at the period of the start of the Russia-Ukraine War.
+Understanding the sudden drop in the bitcoin price which took place at the period of the start of the Russia-Ukraine War.
 
 # Main Aim
 To study the effects of Russia-Ukraine tweets on the performance of a simple LSTM model in predicting the next day's closing price.
