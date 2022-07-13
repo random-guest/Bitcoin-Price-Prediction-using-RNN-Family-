@@ -1,8 +1,8 @@
 # Bitcoin Price Prediction in the time of Russia-Ukraine War using LSTM.
 
 # Research Question
-1. Is the bitcoin price affected by the Russia-Ukraine War ?
-2. Can we use Social sentiments to predict economial destablization ?
+1. Is the bitcoin price affected by the Russia-Ukraine War?
+2. Can we use Social Sentiments to predict economic destabilization?
 
 # Data Used
 1. Recent Historical Bitcoin data (open, high, low, close, volume) of daily data between 2021-01-01 and 2022-07-01.
@@ -19,5 +19,7 @@ Long-Short-Term-Memory Model (LSTM).
 3. Integrate time2vec paper to convert the time into a feature vector.
 
 # Conclusion
-1. Is the bitcoin price affected by the Russia-Ukraine War ?    Answer: Yes
-2. Can we use Social sentiments to predict economial destablization ?   Answer: No
+1. Is the bitcoin price affected by the Russia-Ukraine War ?    
+2. Answer: Yes
+3. Can we use Social sentiments to predict economial destablization ?   
+4. Answer: No
