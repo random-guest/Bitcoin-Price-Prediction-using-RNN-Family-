@@ -15,15 +15,15 @@ You can find it in the relative folder, histo_TI_bitcoin_tweet.csv.
 This file was formed by:
 
 1. Extracting 21 k tweets from 2021-01-01 to 2202-07-01, cleaning them.
-2.  getting their subjectivity and Polarity Scores
-3.  Grouping them by their means to a daily format, to match that of historical bitcoin price, then finally were merged all together. 
+2. Getting their subjectivity and Polarity Scores
+3. Grouping them by their means to a daily format, to match that of historical bitcoin price, then finally were merged all together. 
 
 This work was done using two helper notebooks, Get_raw_Tweets.ipynb and preprocess_raw_tweets_.ipynb.
 
 Therefore, to run this model:
 
 1. Download histo_TI_bitcoin_tweet.csv and Final_LSTM_historical_Data_and_TI_Bitcoin_tweets.ipynb
-2. open jupternotebook, upload this .csv there, and run the Final_LSTM_historical_Data_and_TI_Bitcoin_tweets.ipynb
+2. Open jupter notebook, upload this .csv there, and run the Final_LSTM_historical_Data_and_TI_Bitcoin_tweets.ipynb
 
 
 # Model 1: LSTM with Historical Bitcoin Data, 5 Technical Indicators, Bitcoin Tweets Analysis, and Russia-Ukraine War tweets Analysis
