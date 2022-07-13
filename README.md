@@ -1,10 +1,8 @@
 # Bitcoin Price Prediction in the time of Russia-Ukraine War using LSTM.
 
-# Motivation
-Understanding the sudden drop in the bitcoin price which took place at the period of the start of the Russia-Ukraine War.
-
-# Main Aim
-To study the effects of Russia-Ukraine tweets on the performance of a simple LSTM model in predicting the next day's closing price of the bitcoin.
+# Research Question
+1. Is the bitcoin price affected by the Russia-Ukraine War ?
+2. Can we use Social sentiments to predict economial destablization ?
 
 # Data Used
 1. Recent Historical Bitcoin data (open, high, low, close, volume) of daily data between 2021-01-01 and 2022-07-01.
@@ -21,4 +19,5 @@ Long-Short-Term-Memory Model (LSTM).
 3. Integrate time2vec paper to convert the time into a feature vector.
 
 # Conclusion
-Bitcoin's price was affected by the Russia-Ukraine War.
+1. Is the bitcoin price affected by the Russia-Ukraine War ?    Answer: Yes
+2. Can we use Social sentiments to predict economial destablization ?   Answer: No
