@@ -1,0 +1,19 @@
+Data Split: 90% Train - 10% Test
+
+Data reterived between: 2021-01-01-00-00 & 2022-07-01-00-00
+
+Data normalization between -1 and +1
+
+Model Architecture: 
+
+1 D Conv layer: 64 units, 
+1 layer BiGRU: 64 units,
+Dropout layer of 0.35,
+Dense layer,
+loss function: MAE,
+learning rate = 0.5*10^-3, 
+optimizer: Adam, 
+Epochs 20, 
+validation split= 0.2,  
+batchsize= 32
+time step 15
