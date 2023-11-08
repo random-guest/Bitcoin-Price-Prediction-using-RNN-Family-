@@ -37,6 +37,8 @@ for running this model, download LSTM_historical_Data_and_TI_Bitcoin_Russia_Ukra
 
 Open jupyternotebook, upload the csv file to the local environment and run the code.
 
+# Check Models folder for more MODELS !
+
 # Results Analysis
 The attached photo as summary of results shows that the model architecture is the same, but we add more data, we notice that the performance improved when adding the russia-ukraine war tweets data.
 As we noticed from adding the Russia-Ukraine war tweets analysis, the model performance was improved, therefore, we can conclude that the bitcoin prices was affected by the Russia-Ukraine War. 
